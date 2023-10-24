@@ -121,7 +121,7 @@
     }
 
 
-    cartButton.onclick = () => {
+    cartBtn.onclick = () => {
     totalPrice();
 
 
